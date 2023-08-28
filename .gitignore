@@ -168,3 +168,5 @@ job*
 # Emacs
 *~
 
+# Results
+*.png
