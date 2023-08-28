@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: >-
+  Numerical simulation of the behavior of a private monopolist insurer within the context of community rating.
+message: >-
+  Scripts used in the article "Theoretical Foundations of Community Rating by a Private Monopolist Insurer: Framework, Regulation, and Numerical Analysis"
+type: software
+authors:
+  - given-names: John
+    family-names: Cagnol
+    email: john.cagnol@centralesupelec.fr
+    affiliation: 'Université Paris Saclay, CentraleSupélec'
+    orcid: 'https://orcid.org/0000-0002-5447-3335'
+  - given-names: Yann
+    family-names: Braouezec
+    email: yann.braouezec@ieseg.fr
+    orcid: 'https://orcid.org/0000-0002-2586-2534'
+    affiliation: IESEG
+repository-code: 'https://github.com/cagnol/CommunityRating'
+license: CC-BY-NC-4.0
