@@ -117,4 +117,4 @@ for rho in [0.5, 1, 2.5, 5, 7.5, 10]:
     profit_growth = growth(profit_unregulated,profit_regulated)
 
 
-    print("%.1f\t%.1f\t%.1f\t%.1f\t%.1f"%(rho,r_growth,-cov_growth,-profit_growth,p_growth))
+    print("%.1f\t%.1f\t%.1f\t%.1f\t%.1f"%(rho,r_growth,cov_growth,profit_growth,p_growth))
